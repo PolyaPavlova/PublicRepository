@@ -1,0 +1,13 @@
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\bin\Debug\netcoreapp3.1\InterviewTask.exe
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\bin\Debug\netcoreapp3.1\InterviewTask.deps.json
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\bin\Debug\netcoreapp3.1\InterviewTask.runtimeconfig.json
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\bin\Debug\netcoreapp3.1\InterviewTask.runtimeconfig.dev.json
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\bin\Debug\netcoreapp3.1\InterviewTask.dll
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\bin\Debug\netcoreapp3.1\InterviewTask.pdb
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\obj\Debug\netcoreapp3.1\InterviewTask.csprojAssemblyReference.cache
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\obj\Debug\netcoreapp3.1\InterviewTask.AssemblyInfoInputs.cache
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\obj\Debug\netcoreapp3.1\InterviewTask.AssemblyInfo.cs
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\obj\Debug\netcoreapp3.1\InterviewTask.csproj.CoreCompileInputs.cache
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\obj\Debug\netcoreapp3.1\InterviewTask.dll
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\obj\Debug\netcoreapp3.1\InterviewTask.pdb
+C:\Users\Poly\source\repos\InterviewTask\InterviewTask\obj\Debug\netcoreapp3.1\InterviewTask.genruntimeconfig.cache
